@@ -16,6 +16,9 @@ const Navigation = () => {
         <ul className="hidden md:flex justify-center items-center gap-6 p-10 text-lg">
         <li><a href="#home" className='text-[#9c6d41] hover:text-[#c99b70]'>HOME</a></li>
         <li><a href="#properties" className='text-[#9c6d41] hover:text-[#c99b70]'>PROPERTIES</a></li>
+        <li><a href="#amenities" className='text-[#9c6d41] hover:text-[#c99b70]'>AMENITIES</a></li>
+        <li><a href="#connectivity" className='text-[#9c6d41] hover:text-[#c99b70]'>CONNECTIVITY</a></li>
+        <li><a href="#faqs" className='text-[#9c6d41] hover:text-[#c99b70]'>FAQS</a></li>
         <li><a href="#about" className='text-[#9c6d41] hover:text-[#c99b70]'>ABOUT</a></li>
         <li><a href="#contact" className='text-[#9c6d41] hover:text-[#c99b70]'>CONTACT</a></li>
       </ul>

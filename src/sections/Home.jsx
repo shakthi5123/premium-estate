@@ -5,6 +5,9 @@ import Contact from "./Contact"
 import Navigation from "../components/Navigation"
 import Services from "./Services"
 import Footer from "../components/Footer"
+import Amenities from "./Amenities"
+import Connectivity from "./Connectivity"
+import Faqs from "./Faqs"
 
 
 
@@ -18,6 +21,9 @@ const Home = () => {
       <section id="home" className="mb-5"><Hero /></section>
       <Services />
       <section><Properties /></section>
+      <Amenities />
+      <Connectivity />
+      <Faqs />
       <section><About /></section>
       <section><Contact /></section>
       <Footer />
